@@ -876,6 +876,6 @@ galge.fun##.leftside-bg
 @@||t.bilibili.com^$generichide
 @@||p.dmm.com/p/netgame/top/bnr/$domain=games.dmm.com|games.dmm.co.jp
 @@||api.nextdns.io^$domain=my.nextdns.io
-@@||t10.baidu.com/it/u=$image,domain=www.baidu.com$important
-@@||t11.baidu.com/it/u=$image,domain=www.baidu.com$important
-@@||t12.baidu.com/it/u=$image,domain=www.baidu.com$important
+@@||t10.baidu.com^$important
+@@||t11.baidu.com^$important
+@@||t12.baidu.com^$important
