@@ -86,8 +86,6 @@ _ga_tracker.
 *adservice*
 *adsbygoogle*
 *cnzz*
-*traffic*
-*tracking*
 *lianmeng*
 *guanggao*
 *mobileads*
