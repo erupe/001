@@ -674,9 +674,11 @@ var proxy_host=[
 "mangafuna.xyz",
 "mangafunc.fun",
 "git.io",
+"j01.best",
 "pages.dev",
 "tencross.site",
 "sugarconflict.com",
+"seesaawiki.jp",
 
 ];
 function FindProxyForURL(url, host) {
