@@ -1,7 +1,7 @@
 ﻿﻿[Adblock Plus 2.0]
 ! Title: 自用广告过滤规则
-! Version: 1.0.80
-! Last modified:  2021-11-14 13:53:27
+! Version: 1.0.81
+! Last modified:  2022-8-7 14:42:37
 ! Expires: 1 days (update frequency)
 ! Homepage: https://aka32.pages.dev/p/adblocklist.txt
 ! e-mail (kyuubee32@gmail.com)
@@ -877,3 +877,4 @@ galge.fun##.leftside-bg
 @@||t10.baidu.com^$important
 @@||t11.baidu.com^$important
 @@||t12.baidu.com^$important
+@@||abs.twimg.com/responsive-web/client-web^$domain=twitter.com,third-party
