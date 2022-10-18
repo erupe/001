@@ -679,6 +679,7 @@ var proxy_host=[
 "tencross.site",
 "sugarconflict.com",
 "seesaawiki.jp",
+"gradio.app",
 
 ];
 function FindProxyForURL(url, host) {

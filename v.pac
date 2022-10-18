@@ -674,6 +674,7 @@ var proxy_host=[
 "pages.dev",
 "tencross.site",
 "sugarconflict.com",
+"gradio.app",
 
 ];
 function FindProxyForURL(url, host) {
