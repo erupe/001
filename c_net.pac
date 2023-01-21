@@ -596,6 +596,7 @@ var proxy_host=[
 "fygal.com",
 "kforz.com",
 "workers.dev",
+"euko39.workers.dev",
 "pttgamer.com",
 "xiaoxiaobujidao.org",
 "guguzhen.com",
