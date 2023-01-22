@@ -681,7 +681,8 @@ var proxy_host=[
 "sugarconflict.com",
 "seesaawiki.jp",
 "gradio.app",
-
+"planetscale.com",
+  
 ];
 function FindProxyForURL(url, host) {
   for (var i = 0; i < proxy_host.length; i++) {
