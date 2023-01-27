@@ -222,6 +222,9 @@ var proxy_host=[
 "similarweb.com",
 "s3.amazonaws.com",
 "s3-ap-northeast-1.amazonaws.com",
+"ap-northeast-1.amazonaws.com",
+"ap-northeast-2.amazonaws.com",
+"ap-northeast-3.amazonaws.com",
 "s3.ap-southeast-1.amazonaws.com",
 "s3.ap-southeast-2.amazonaws.com",
 "freefq.com",
@@ -596,6 +599,7 @@ var proxy_host=[
 "fygal.com",
 "kforz.com",
 "workers.dev",
+"euko39.workers.dev",
 "pttgamer.com",
 "xiaoxiaobujidao.org",
 "guguzhen.com",
@@ -671,11 +675,13 @@ var proxy_host=[
 "mangafuna.xyz",
 "mangafunc.fun",
 "git.io",
+"j01.best",
 "pages.dev",
 "tencross.site",
 "sugarconflict.com",
+"seesaawiki.jp",
 "gradio.app",
-
+"planetscale.com",
 ];
 function FindProxyForURL(url, host) {
   for (var i = 0; i < proxy_host.length; i++) {
