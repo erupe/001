@@ -682,6 +682,9 @@ var proxy_host=[
 "seesaawiki.jp",
 "gradio.app",
 "planetscale.com",
+"anluo.ml",
+"odnnk.ml",
+"kango.ml",
 
 ];
 function FindProxyForURL(url, host) {
