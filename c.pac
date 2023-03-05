@@ -685,6 +685,7 @@ var proxy_host=[
 "anluo.ml",
 "odnnk.ml",
 "kango.ml",
+"chat.openai.com",
 
 ];
 function FindProxyForURL(url, host) {
