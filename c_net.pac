@@ -689,6 +689,7 @@ var proxy_host=[
 "chat.openai.com",
 "civitai.com",
 "erogamescape.dyndns.org",
+"spring-plus.net",
 ];
 function FindProxyForURL(url, host) {
   for (var i = 0; i < proxy_host.length; i++) {
